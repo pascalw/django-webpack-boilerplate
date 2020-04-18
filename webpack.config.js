@@ -9,7 +9,7 @@ module.exports = [
       app: "./assets/app.js",
     },
     output: {
-      path: path.resolve(__dirname, "boilerplate/static"),
+      path: path.resolve(__dirname, "app/static"),
       publicPath: "/static/",
       filename: "[name].js",
       chunkFilename: "[id]-[chunkhash].js",

@@ -4,5 +4,5 @@ db.sqlite3
 *.DS_Store
 /.vscode
 
-boilerplate/static
+app/static
 /static_collected

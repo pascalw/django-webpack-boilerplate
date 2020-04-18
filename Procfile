@@ -1,1 +1,1 @@
-web: gunicorn boilerplate.wsgi:application --preload --log-file -
+web: gunicorn app.wsgi:application --preload --log-file -
