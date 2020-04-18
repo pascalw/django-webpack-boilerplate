@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "django-webpack-boilerplate"
+version = "0.1.0"
+description = ""
+authors = ["Pascal Widdershoven"]
+
+[tool.poetry.dependencies]
+python = "3.7.3"
+gunicorn = "^20.0.4"
+whitenoise = "^5.0.1"
+django = "3.0.5"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
