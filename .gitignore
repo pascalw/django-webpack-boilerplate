@@ -3,3 +3,6 @@ db.sqlite3
 /node_modules
 *.DS_Store
 /.vscode
+
+boilerplate/static
+/static_collected

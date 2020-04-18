@@ -1,0 +1,24 @@
+body {
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  color: #101820;
+}
+
+#django-logo {
+  background-image: url('./img/django.png');
+  background-size: contain;
+  width: 100px;
+  height: 46px;
+}
+
+#django {
+  color: #0C4B33;
+  margin-bottom: 20px;
+}
+
+#webpack {
+  color: #465e69;
+}
+
+#chunk {
+  color: orangered;
+}
