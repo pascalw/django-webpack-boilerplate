@@ -1,7 +1,7 @@
 # Django + Webpack without any plugins to glue them together
 
 This is a demo project for my blog post [here](https://pascalw.me/blog/2020/04/19/webpack-django.html).  
-It's deployed on Heroku [here](https://django-webpack.herokuapp.com).
+It's deployed on Fly.io [here](https://django-webpack.fly.dev).
 
 ## Installation
 
